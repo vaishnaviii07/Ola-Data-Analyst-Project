@@ -77,6 +77,16 @@ This project focuses on analyzing Ola ride booking data using SQL, Power BI, and
 
 [Template](Ola_Project.pbit)
 
+## **Conclusion**
+
+This project demonstrates how data from Ola ride bookings can be transformed into actionable insights using **SQL, Excel, and Power BI**  
+By analyzing booking trends, cancellations, revenue, and customer ratings, we identified patterns that can help improve customer experience, driver efficiency, and business decision-making
+
+Through this project, I showcased:  
+- Strong skills in data cleaning, SQL queries, and KPI development 
+- Ability to design interactive dashboards in Power BI
+- Applying analytical thinking to solve real-world business problems 
+
 ## **How to Use**
 
 Clone this repository
