@@ -73,6 +73,10 @@ This project focuses on analyzing Ola ride booking data using SQL, Power BI, and
 
 [SQL File](ola_project.sql)
 
+**Power BI Template**
+
+[Template](Ola_Project.pbit)
+
 ## **How to Use**
 
 Clone this repository
