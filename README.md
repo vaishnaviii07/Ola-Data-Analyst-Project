@@ -14,7 +14,7 @@ This project focuses on analyzing Ola ride booking data using SQL, Power BI, and
    - Cleaned missing/duplicate values using SQL & Excel  
 
 2. **Exploratory Data Analysis (EDA)**  
-   - Performed SQL queries to analyze booking patterns, cancellations, and customer ratings  
+   - Performed SQL queries to analyze booking patterns, cancellations, and customer ratings 
    - Used Excel for pivot table summaries  
 
 3. **Data Visualization (Power BI)**  
